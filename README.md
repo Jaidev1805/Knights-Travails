@@ -1,4 +1,4 @@
-# Knights Travails 🏰♞
+# Knights Travails
 
 A solution to the **Knights Travails** project from *The Odin Project — JavaScript Course*.
 
@@ -6,7 +6,7 @@ This program calculates the **shortest path a knight can take** on a standard 8�
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The purpose of this project is to:
 
@@ -16,7 +16,7 @@ The purpose of this project is to:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Validates knight moves within the 8×8 board.
 - Finds the shortest path (fewest moves) using BFS.
@@ -25,7 +25,7 @@ The purpose of this project is to:
 
 ---
 
-## 🧩 Usage Example
+## Usage Example
 
 ```
 import knightMoves from './knightsTravails.js';
